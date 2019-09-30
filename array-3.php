@@ -8,8 +8,8 @@
         }
     } 
     
-    echo "Index ".$cari." = ".$res
-    
+    echo "<p>". join($input, ", ") ."</p>";
+    echo "Index dari value ".$cari." adalah ".$res
 ?>
 
 
