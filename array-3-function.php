@@ -16,3 +16,4 @@
     cariIndex($input, 6);
     cariIndex($input, 10);
     cariIndex($input, 11);
+?>
