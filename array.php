@@ -4,7 +4,7 @@
     
     foreach($input as $key){
         echo $key*=$angka;
-        echo "<br>";
+        echo "<br>"; 
     }
 
     echo "<br>";
