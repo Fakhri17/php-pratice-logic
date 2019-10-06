@@ -7,6 +7,7 @@
 	}
     table, th, td {
         margin-bottom : 20px;
+        margin-top : 25px;
         border: 1px solid black;
         border-collapse: collapse;
         padding : 10px;
@@ -50,15 +51,13 @@
     <?php
     else: 
     ?>
-        <table>
+        
             <form action=""></form>
-                <tr>
-                    <th><input type="number"></th>
-                    <th>Link</th>
-                    <th>Link</th>
-                </tr>
+                <input type="number">
+                <button>CARI</button>
+                <button>Reset</button>
             </form>
-        </table>
+        
         <table>
             <tr>
                 <th>Id</th>

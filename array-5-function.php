@@ -6,15 +6,31 @@
   ];
 
   
-  function arraysearch($arr, $ID, $VALUE){
-    foreach ($arr as $key => $value){
+  function arraysearch($input, $ID, $VALUE){
+    $result = " Not Found";
+    foreach ($input as $key => $value){
       if ($value[$ID] == $VALUE){
         $result = $key;
-        return $result;
+        echo " Index ke ".$result;
+        echo "<br>";
+        echo  " Id = ".$value['id'];
+        echo "<br>";
+        echo " Nama = ".$value['nama'];
+        echo "<br>";
+        echo "<br>";
       }
     }
+    if ($result != null) {
+      if ($result > 0 ) {
+        $result = "";
+      }
+      echo $result;
+    }
   }
-  $result = arraysearch($input, 'id', 423);
-  echo "Index ke-".$result."<br>";
-  echo "Id= ".$input[$result]['id'].", Nama= ".$input[$result]['nama'];
+
+  arraysearch($input, 'id', 122);
+  arraysearch($input, 'id', 287);
+  arraysearch($input, 'id', 423);
+  arraysearch($input, 'id', 100);
+  
 ?>

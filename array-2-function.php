@@ -11,6 +11,6 @@
          }
      }
 
-     echo reversearray($input);
+     reversearray($input);
 ?>
 

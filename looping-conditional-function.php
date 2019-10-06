@@ -46,8 +46,12 @@
     }
 
 
-    echo segitigaA($input)."<br>";
-    echo segitigaB($input)."<br>";
-    echo segitigaC($input)."<br>";
-    echo segitigaD($input)."<br>";
+    segitigaA($input);
+    echo "<br>";
+    segitigaB($input);
+    echo "<br>";
+    segitigaC($input);
+    echo "<br>";
+    segitigaD($input);
+    echo "<br>";
 ?>

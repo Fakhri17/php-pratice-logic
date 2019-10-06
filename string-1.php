@@ -1,15 +1,7 @@
 <?php 
-    $input = "smkn 2 surabaya";
-    echo strrev ( $input );
-    
-    
-?>
-<br>
-<br>
-<?php 
 
 $result = "";
-$input = "smkn2";
+$input = "smkn 2 surabaya";
 $last = strlen($input)-1;
 
 for($x=$last; $x>=0; $x--)

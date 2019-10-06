@@ -2,7 +2,7 @@
 <?php 
     function cariIndex($input, $cariValue) 
     {
-        $res = -1;
+        $res = -2;
         foreach ($input as $key => $value) { 
             if($value == $cariValue){
                 $res = $key;
