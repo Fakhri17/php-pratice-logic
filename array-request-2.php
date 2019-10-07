@@ -23,6 +23,11 @@
             [ 'id' => 227, 'nama' => 'RENALDY', 'asal' => 'SURABAYA' ],
             [ 'id' => 423, 'nama' => 'FAKHRI', 'asal' => 'SURABAYA' ],
         ];
+
+        $cari = '';
+        if (isset($_GET['cariID'])) {
+          $cari = $_GET['cariID'];
+        }
        
           if (isset($_GET['id'])){
             $id = $_GET['id'];
@@ -53,7 +58,7 @@
           ?>
         
             <form action="#" method="get">
-                <input type="number" value="id" place>
+                <input type="number" name="cariID" placeholder="Masukkan ID">
                 <button type="submit" value="Submit">CARI</button>
                 <button type="reset" value="Reset">Reset</button>
             </form>
@@ -65,22 +70,35 @@
                     <th>Umur</th>
                     <th>Link</th>
                 </tr>
-                <?php foreach ($input as $key => $value): ?>
+                <?php foreach ($input as $key => $value):
+                   if ($value['id'] == $cari): ?>
                 <tr>
                     <td><?php echo $value['id'] ?></td>
                     <td><?php echo $value['nama'] ?></td>
                     <td><?php echo $value['asal'] ?></td>
                     <td><a href="?id=<?php echo $value['id'] ?>">Profil</a></td>
                 </tr>
-                <?php endforeach ?>
-          </table>
 
-            <?php endif; ?>
+                <?php 
+                  elseif ($cari == ''):
+                ?>
 
+                <tr>
+                    <td><?php echo $value['id'] ?></td>
+                    <td><?php echo $value['nama'] ?></td>
+                    <td><?php echo $value['asal'] ?></td>
+                    <td><a href="?id=<?php echo $value['id'] ?>">Profil</a></td>
+                </tr>
+                
+                <?php
+                  endif; 
+                  endforeach; 
+                ?>
 
-            
-        
-        
+             </table>
+
+                <?php endif; ?>
         </body>
     </head>
 </html>
+
