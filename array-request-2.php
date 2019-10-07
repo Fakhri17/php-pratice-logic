@@ -46,11 +46,11 @@
             echo "- Nama: ".$input[$result]['nama']."<br>"."<br>";
             echo "- Asal: ".$input[$result]['asal']."<br>"."<br>";
         
-    ?>
+          ?>
         <button onclick="window.history.back()">Kembali</button>
-    <?php
-    else: 
-    ?>
+          <?php
+            else: 
+          ?>
         
             <form action=""></form>
                 <input type="number">
@@ -58,24 +58,24 @@
                 <button>Reset</button>
             </form>
         
-        <table>
-            <tr>
-                <th>Id</th>
-                <th>Nama Siswa</th> 
-                <th>Umur</th>
-                <th>Link</th>
-            </tr>
-            <?php foreach ($input as $key => $value): ?>
-            <tr>
-                <td><?php echo $value['id'] ?></td>
-                <td><?php echo $value['nama'] ?></td>
-                <td><?php echo $value['asal'] ?></td>
-                <td><a href="?id=<?php echo $value['id'] ?>">Profil</a></td>
-            </tr>
-            <?php endforeach ?>
-       </table>
+            <table>
+                <tr>
+                    <th>Id</th>
+                    <th>Nama Siswa</th> 
+                    <th>Umur</th>
+                    <th>Link</th>
+                </tr>
+                <?php foreach ($input as $key => $value): ?>
+                <tr>
+                    <td><?php echo $value['id'] ?></td>
+                    <td><?php echo $value['nama'] ?></td>
+                    <td><?php echo $value['asal'] ?></td>
+                    <td><a href="?id=<?php echo $value['id'] ?>">Profil</a></td>
+                </tr>
+                <?php endforeach ?>
+          </table>
 
-    <?php endif; ?>
+            <?php endif; ?>
         
         
         </body>
