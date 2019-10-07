@@ -52,10 +52,10 @@
             else: 
           ?>
         
-            <form action=""></form>
-                <input type="number">
-                <button>CARI</button>
-                <button>Reset</button>
+            <form action="#" method="get">
+                <input type="number" value="id" place>
+                <button type="submit" value="Submit">CARI</button>
+                <button type="reset" value="Reset">Reset</button>
             </form>
         
             <table>
@@ -76,6 +76,9 @@
           </table>
 
             <?php endif; ?>
+
+
+            
         
         
         </body>
