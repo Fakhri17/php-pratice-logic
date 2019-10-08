@@ -1,3 +1,4 @@
+<?php include "functions.php" ?>
 <html>
     <head>
     <style>
@@ -20,42 +21,47 @@
     <?php 
         $input = [
             [ 'id' => 122, 'nama' => 'RAMA', 'asal' => 'SURABAYA' ],
-            [ 'id' => 227, 'nama' => 'RENALDY', 'asal' => 'SURABAYA' ],
-            [ 'id' => 423, 'nama' => 'FAKHRI', 'asal' => 'SURABAYA' ],
+            [ 'id' => 127, 'nama' => 'RENALDY', 'asal' => 'SURABAYA' ],
+            [ 'id' => 427, 'nama' => 'FAKHRI', 'asal' => 'SURABAYA' ],
         ];
+
+        echo '<pre>';
+        var_dump($_GET);
+        echo '</pre>';
        
-          if (isset($_GET['id'])){
+        if (isset($_GET['id'])) {
+          if ($_GET['id'] != "" && isset($_GET['submit'])){
+            // jika ada id dan submit
             $id = $_GET['id'];
+            $resultArray = findContains($input, 'id', $id);
+          } else {
+            // jika ada id dan reset
+            $resultArray = $input;
           }
-          else
-          {
-              $id = "";
-          }
-
-          foreach ($input as $key => $value){
-            if ($value['id'] == $id){
-              $result = $key;
-            }
-          }
-          ?>
-
-          <?php
-          if (isset($result)):
-            echo "Profil siswa id: ".$input[$result]['id']."<br>"."<br>";
-            echo "- Id: ".$input[$result]['id']."<br>"."<br>";
-            echo "- Nama: ".$input[$result]['nama']."<br>"."<br>";
-            echo "- Asal: ".$input[$result]['asal']."<br>"."<br>";
+        } else {
+          // jika tidak ada parameter
+          $resultArray = $input;
+        }
         
-          ?>
+        ?>
+
+        <?php
+        if (isset($result)):
+          echo "Profil siswa id: ".$input[$result]['id']."<br>"."<br>";
+          echo "- Id: ".$input[$result]['id']."<br>"."<br>";
+          echo "- Nama: ".$input[$result]['nama']."<br>"."<br>";
+          echo "- Asal: ".$input[$result]['asal']."<br>"."<br>";
+      
+        ?>
         <button onclick="window.history.back()">Kembali</button>
           <?php
             else: 
           ?>
         
-            <form action="#" method="get">
-                <input type="number" value="id" place>
-                <button type="submit" value="Submit">CARI</button>
-                <button type="reset" value="Reset">Reset</button>
+            <form method="get">
+                <input type="number" name="id" placeholder="id siswa">
+                <button type="submit" name="submit">CARI</button>
+                <button type="submit" name="reset">Reset</button>
             </form>
         
             <table>
@@ -65,7 +71,7 @@
                     <th>Umur</th>
                     <th>Link</th>
                 </tr>
-                <?php foreach ($input as $key => $value): ?>
+                <?php foreach ($resultArray as $key => $value): ?>
                 <tr>
                     <td><?php echo $value['id'] ?></td>
                     <td><?php echo $value['nama'] ?></td>
