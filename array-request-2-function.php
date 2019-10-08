@@ -33,9 +33,11 @@
             [ 'id' => 427, 'nama' => 'FAKHRI', 'asal' => 'SURABAYA' ],
         ];
 
-        echo '<pre>';
+        /*echo '<pre>';
         var_dump($_GET);
-        echo '</pre>';
+        echo '</pre>';*/
+
+        
        
         if (isset($_GET['cari'])) {
           if ($_GET['cari'] != ""){
@@ -67,18 +69,19 @@
           <?php
             else: 
           ?>
+          
         
             <form id="my-form" method="get">
                 <input type="number" name="cari" placeholder="id siswa">
                 <button class="button" type="submit" name="submit">CARI</button>
-                <a class="button" onclick="reset()">Reset</a>
+                <button class="button" onclick="reset()">Reset</button>
             </form>
         
             <table>
                 <tr>
                     <th>Id</th>
                     <th>Nama Siswa</th> 
-                    <th>Umur</th>
+                    <th>Asal</th>
                     <th>Link</th>
                 </tr>
                 <?php foreach ($resultArray as $key => $value): ?>

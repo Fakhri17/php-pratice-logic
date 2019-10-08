@@ -6,7 +6,7 @@ function findContains($arrInput, $searchKey, $searchValue) {
     if (strpos($value[$searchKey], $searchValue) !== false){
       // jika hasil dari strpos bukan false, maka ketemu
       array_push($result, $value);
-      echo 'found! <br/>';
+      echo ' found! <br/>';
     } else {
       // tidak ketemu
       echo 'not found! <br/>';
