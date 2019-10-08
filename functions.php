@@ -19,7 +19,8 @@ function findSame($arrInput, $searchKey, $searchValue) {
   $result = null;
   foreach ($arrInput as $key => $value){
     if ($value[$searchKey] == $searchValue){
-      return $result;
+      echo 'found! <br/>';
+      $result = $value;
     }
   }
   return $result;
