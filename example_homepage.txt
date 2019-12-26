@@ -1,0 +1,2826 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>PORTAL TI</title>
+    <!-- Bootstrap core CSS -->
+    <link href="/Content/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom fonts for this template -->
+    <link href="/Content/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="/Content/css/font/lato.css" rel="stylesheet" type="text/css">
+    <link href="/Content/css/font/monsterrat.css" rel="stylesheet" type="text/css">
+    <!-- Plugin CSS -->
+    <link href="/Content/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+    <!-- Custom styles for this template -->
+    <link href="/Content/css/style.css" rel="stylesheet">
+    <link href="/Content/css/freelancer.css" rel="stylesheet">
+    <style>
+
+        /*set height logo PG */
+        .navbar img.logo {
+            height: 60px;
+        }
+        /*set height logo kanan*/
+        .navbar img.logo-additional {
+            height: 40px;
+        }
+        /*set color navbar*/
+        .bg-secondary {
+            background-color: #ffffff !important;
+        }
+
+        .custom-title {
+            color: #000000 !important;
+        }
+
+
+        /* This style should explicitly set your navbar to a certain height */
+        .navbar, .navbar div, .navbar-brand, .navbar-header {
+            min-height: 90px;
+            max-height: 90px;
+            height: 90px;
+        }
+
+        .nav-link-right {
+            right: 0;
+            position: absolute;
+            display: flex;
+            margin-top: 1rem;
+        }
+
+        .row-search {
+            padding: 25px 10px 10px 10px;
+        }
+  
+    </style>
+
+</head>
+<body id="page-top">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
+        <a class="navbar-brand" href="https://petrokimia-gresik.com/">
+            <img alt="Logo-PG-agro-trans-small" class="logo" src="https://storage.googleapis.com/pkg-portal-bucket/images/template/logo-PG-agro-trans-small.png">
+        </a>
+        <!-- <div class="container">
+        <a class="navbar-brand js-scroll-trigger custom-title" href="#page-top">PETROKIMIA APPS</a>
+    </div>-->
+        <div class="nav-link-right">
+            <a class="nav-link" href="https://petrokimia-gresik.com/link/kemeneg-bumn" target="_blank">
+                <img alt="Logo-bumn-fixed" class="logo-additional" src="https://storage.googleapis.com/pkg-portal-bucket/images/link/logo-bumn-fixed.png">
+            </a>
+
+
+            <a class="nav-link" href="https://petrokimia-gresik.com/link/pupuk-indonesia" target="_blank">
+                <img alt="Logo-pupuk-indonesia" class="logo-additional" src="https://storage.googleapis.com/pkg-portal-bucket/images/link/logo-pupuk-indonesia.png">
+            </a>
+
+        </div>
+                
+           
+     
+    </nav>
+
+
+        <!-- Portfolio Grid Section -->
+        <section class="portfolio" id="portfolio">
+            <div class="container">
+                <div class="body fixed text-uppercase" id="secNav">
+                    <div class="container">
+                        <h2 class="text-center text-uppercase text-secondary mb-0">PORTAL PETROKIMIA</h2>
+                        <hr class="star-dark mb-5">
+                        
+<form action="/" data-ajax="true" data-ajax-method="Get" data-ajax-mode="replace" data-ajax-update="#divresult" id="form0" method="post">                            <br>
+                            <br>
+                            <div class="row row-search" style="background-color :#18BC9C; margin-bottom: 20px">
+                               
+                                
+                                <div class="col-sm-8 col-md-9">
+                                        
+                               
+                                    
+                                    <input class="form-control" id="appsname" name="appsname" type="text" value="" />
+                                </div>
+                                <div class="col-sm-4 col-md-2">
+                                    
+                                    
+                                    <button id="btnSubmit" type="submit" class="btn btn-primary" style="background-color:#2C3E50;width:100%">Cari</button>
+                                </div>
+                                <br><br>
+                            </div>
+</form>
+                    </div>
+                </div>
+                
+                <div class="row" id="divresult">
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/e56c4dee-0665-4203-9efb-be7c4da77223.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Petrokimia Gresik</p>
+                                        <span class="textUrl">http://www.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://www.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#e56c4dee-0665-4203-9efb-be7c4da77223">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/0abbe508-b352-423a-892a-2a38ca80fd56.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>SERGIO</p>
+                                        <span class="textUrl">http://sergio.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://sergio.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#0abbe508-b352-423a-892a-2a38ca80fd56">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/df4ee376-ff17-47f3-a244-79051c91c917.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>SISTRO</p>
+                                        <span class="textUrl">http://sistro.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://sistro.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#df4ee376-ff17-47f3-a244-79051c91c917">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/34462020-7fd4-4d47-9a59-9ca7846ff7f9.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Digital Office</p>
+                                        <span class="textUrl">http://dof.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://dof.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#34462020-7fd4-4d47-9a59-9ca7846ff7f9">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/5768f320-794c-40c8-8f88-730df20c6357.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Helpdesk TI</p>
+                                        <span class="textUrl">http://helpdesk.petrokimia-gresik.com/</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://helpdesk.petrokimia-gresik.com/">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#5768f320-794c-40c8-8f88-730df20c6357">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/03503036-b7b5-4658-97f3-46de5705e03d.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>SMK</p>
+                                        <span class="textUrl">http://smk.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://smk.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#03503036-b7b5-4658-97f3-46de5705e03d">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/1c093911-a1f8-482a-9774-aac3e0955681.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>NISA (Monitoring Pasar)</p>
+                                        <span class="textUrl">http://nisa.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://nisa.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#1c093911-a1f8-482a-9774-aac3e0955681">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/a649d2be-45a3-41ff-9400-8a0f6da3e426.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Dashboard Mobile</p>
+                                        <span class="textUrl">https://play.google.com/store/apps/details?id=com.petrobi</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://play.google.com/store/apps/details?id=com.petrobi">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#a649d2be-45a3-41ff-9400-8a0f6da3e426">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/6b25828c-a1f5-4285-8e2a-45ced1e61f7b.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Sumbang Gagasan</p>
+                                        <span class="textUrl">http://sg.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://sg.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#6b25828c-a1f5-4285-8e2a-45ced1e61f7b">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/df00c41d-c5f2-43a7-ba4b-6ffdaf700bef.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>DOF Mobile</p>
+                                        <span class="textUrl">https://play.google.com/store/apps/details?id=com.digitaloffice</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://play.google.com/store/apps/details?id=com.digitaloffice">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#df00c41d-c5f2-43a7-ba4b-6ffdaf700bef">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/7aeb6c6a-b9b0-4a39-88f3-909466ae87fd.jpeg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>KIPG Apps</p>
+                                        <span class="textUrl">https://play.google.com/store/apps/details?id=app.kipg.koding</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://play.google.com/store/apps/details?id=app.kipg.koding">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#7aeb6c6a-b9b0-4a39-88f3-909466ae87fd">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/ef401d2c-94cb-484e-9aeb-4ca270b23e6e.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Knowledge Management</p>
+                                        <span class="textUrl">http://km.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://km.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#ef401d2c-94cb-484e-9aeb-4ca270b23e6e">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/5d2d5cad-a2ff-4d8c-b0f8-d8dd7ebf7c9c.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>SIP3</p>
+                                        <span class="textUrl">https://sip3.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://sip3.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#5d2d5cad-a2ff-4d8c-b0f8-d8dd7ebf7c9c">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/7487a25b-8643-4037-af21-bf3f509a115b.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Recruitment</p>
+                                        <span class="textUrl">http://recruitment.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://recruitment.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#7487a25b-8643-4037-af21-bf3f509a115b">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/1a0f7190-54be-43aa-803f-0df3ef64ea4e.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Prakerin</p>
+                                        <span class="textUrl">http://prakerin.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://prakerin.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#1a0f7190-54be-43aa-803f-0df3ef64ea4e">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/1c6b31d1-52ed-4d5e-95b5-8087d96e61e3.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>OPG</p>
+                                        <span class="textUrl">http://opg.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://opg.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#1c6b31d1-52ed-4d5e-95b5-8087d96e61e3">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/cdea4bc4-6701-4250-92d8-52e05168fd39.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>MONITA</p>
+                                        <span class="textUrl">http://monita.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://monita.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#cdea4bc4-6701-4250-92d8-52e05168fd39">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/ae5bf7b6-836e-47b5-98f8-401de852d50b.PNG" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>IMFUS</p>
+                                        <span class="textUrl">http://imfus.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://imfus.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#ae5bf7b6-836e-47b5-98f8-401de852d50b">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/bb52f5f2-e2a4-4fa2-bd6d-fab0b66e86d0.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>HCM</p>
+                                        <span class="textUrl">http://hcm.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://hcm.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#bb52f5f2-e2a4-4fa2-bd6d-fab0b66e86d0">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/de876c20-60ec-4fa7-812b-cbd818472707.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>GO CRANE</p>
+                                        <span class="textUrl">https://play.google.com/store/apps/details?id=com.petrokimia.digihev</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://play.google.com/store/apps/details?id=com.petrokimia.digihev">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#de876c20-60ec-4fa7-812b-cbd818472707">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/18094459-3d51-4713-92c2-2baf5a5d6069.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Dekom PKG</p>
+                                        <span class="textUrl">http://dekompkg.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://dekompkg.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#18094459-3d51-4713-92c2-2baf5a5d6069">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/b64935bc-55d5-4c34-b513-bf70dd9618df.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>WUM (Web Uang Muka)</p>
+                                        <span class="textUrl">https://wum.pupuk-indonesia.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://wum.pupuk-indonesia.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#b64935bc-55d5-4c34-b513-bf70dd9618df">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/b9601fa6-8f4c-43e9-91c9-5ccad302b062.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>WCM</p>
+                                        <span class="textUrl">https://wcm.pupuk-indonesia.com/</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://wcm.pupuk-indonesia.com/">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#b9601fa6-8f4c-43e9-91c9-5ccad302b062">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/85d4d620-4a33-4ba1-bbe4-4b628a3448bd.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>HCSERVICES</p>
+                                        <span class="textUrl">https://hcservices.pupuk-indonesia.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://hcservices.pupuk-indonesia.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#85d4d620-4a33-4ba1-bbe4-4b628a3448bd">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/ee4a9369-7374-487f-8ed6-58c4c532ec1e.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Transport Online</p>
+                                        <span class="textUrl">http://transport.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://transport.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#ee4a9369-7374-487f-8ed6-58c4c532ec1e">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/23867a6a-dd8f-440f-90e1-ea0fdd93882e.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Seleksi Lolapil </p>
+                                        <span class="textUrl">http://seleksilolapil.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://seleksilolapil.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#23867a6a-dd8f-440f-90e1-ea0fdd93882e">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/dd817e28-4fe0-4634-92a6-c21e885a3560.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>CGM</p>
+                                        <span class="textUrl">http://cgm.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://cgm.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#dd817e28-4fe0-4634-92a6-c21e885a3560">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/eb199946-f169-499b-b783-1c4aad2ee572.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>SIP-Sistem Informasi Petroganik</p>
+                                        <span class="textUrl">http://petroganik.net</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://petroganik.net">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#eb199946-f169-499b-b783-1c4aad2ee572">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/1fef3577-ca3a-4779-9ae5-b32e610da2cf.PNG" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>PIKPG</p>
+                                        <span class="textUrl">http://pikpg.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://pikpg.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#1fef3577-ca3a-4779-9ae5-b32e610da2cf">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/38f0e2e6-1d76-4a57-a7ba-2bd6dfccda26.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>E-Sekretariat</p>
+                                        <span class="textUrl">http://sekretariat.petrointernal.net</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://sekretariat.petrointernal.net">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#38f0e2e6-1d76-4a57-a7ba-2bd6dfccda26">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/0bf4a713-fcc1-4078-b202-14b807ffa38f.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>PGFC / HUT Petrokimia</p>
+                                        <span class="textUrl">http://pgfc.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://pgfc.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#0bf4a713-fcc1-4078-b202-14b807ffa38f">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/19565608-cc1d-4332-a85b-b1dbd502ef3b.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Share Additional Cost PO</p>
+                                        <span class="textUrl">https://Petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://Petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#19565608-cc1d-4332-a85b-b1dbd502ef3b">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/19d67459-7119-41db-bdcf-91a41c63d0ea.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Dashboard Raw Material (DRM)</p>
+                                        <span class="textUrl">http://drm.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://drm.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#19d67459-7119-41db-bdcf-91a41c63d0ea">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/21349977-d3f4-42c2-8641-f752dc93eff0.jpeg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p> GEMA Online</p>
+                                        <span class="textUrl">http://gema.petrokimia-gresik.com/NoLogin/Default.aspx</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://gema.petrokimia-gresik.com/NoLogin/Default.aspx">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#21349977-d3f4-42c2-8641-f752dc93eff0">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/47d5ed1e-fd99-4dac-adda-e0880cbff69f.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p> Sistem Managemen Risiko (SIMAR)</p>
+                                        <span class="textUrl">http://simar.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://simar.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#47d5ed1e-fd99-4dac-adda-e0880cbff69f">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/4fbe216b-6444-439b-b41c-a0e02f813ea1.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Tools VFP</p>
+                                        <span class="textUrl">https://Petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://Petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#4fbe216b-6444-439b-b41c-a0e02f813ea1">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/5a06ea9c-48d1-4d14-b568-cb3f0d04f7e5.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Petro Link</p>
+                                        <span class="textUrl">http://link.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://link.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#5a06ea9c-48d1-4d14-b568-cb3f0d04f7e5">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/5ca64229-88cc-4ace-bee0-a4c723341ddc.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>SKPG-Pilsung</p>
+                                        <span class="textUrl">https://skpg.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://skpg.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#5ca64229-88cc-4ace-bee0-a4c723341ddc">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/61a9fdd1-2921-46fa-8849-4d8f77f1b2ae.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>SIP3 Non Subsidi</p>
+                                        <span class="textUrl">https://sip3.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://sip3.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#61a9fdd1-2921-46fa-8849-4d8f77f1b2ae">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/66502439-fc9f-402a-8107-8e3482eeffa0.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Logenda PM</p>
+                                        <span class="textUrl">https://logenda-pm.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://logenda-pm.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#66502439-fc9f-402a-8107-8e3482eeffa0">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/782090dc-6c9d-4830-bc03-ee1e9ab51e41.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>E-Talent</p>
+                                        <span class="textUrl">https://smk.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://smk.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#782090dc-6c9d-4830-bc03-ee1e9ab51e41">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/7ea35e0b-b1ec-42a1-9d78-69b3780af77e.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Digital Fertilizer</p>
+                                        <span class="textUrl">https://play.google.com/store/apps/details?id=io.digifertpetro.app</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://play.google.com/store/apps/details?id=io.digifertpetro.app">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#7ea35e0b-b1ec-42a1-9d78-69b3780af77e">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/8036df95-6d57-4ef5-9a81-0b9d599db586.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>SAP FI</p>
+                                        <span class="textUrl">https://Petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://Petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#8036df95-6d57-4ef5-9a81-0b9d599db586">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/9f7ff085-6cc0-42e0-b537-93e517da5161.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>APG- Aplikasi Gudang</p>
+                                        <span class="textUrl">https://apg.pupuk-indonesia.com/</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://apg.pupuk-indonesia.com/">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#9f7ff085-6cc0-42e0-b537-93e517da5161">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/a0c56ba5-3108-47ec-bcf1-ee896a5dfe5e.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Sistem informasi GCG</p>
+                                        <span class="textUrl">https://gcgonline.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://gcgonline.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#a0c56ba5-3108-47ec-bcf1-ee896a5dfe5e">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/a7ce3257-79fb-4f6f-ab3b-af635252c04b.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Sistem Informasi Niaga (SIAGA)</p>
+                                        <span class="textUrl">http://siaga.pupuk-indonesia.com/siaga/user/login</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://siaga.pupuk-indonesia.com/siaga/user/login">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#a7ce3257-79fb-4f6f-ab3b-af635252c04b">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/c8cc7350-c9d9-40bd-8986-f6a9f84b5c33.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>AUDIO</p>
+                                        <span class="textUrl">https://audio.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://audio.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#c8cc7350-c9d9-40bd-8986-f6a9f84b5c33">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/ccf9615c-a05a-4ab3-9044-0eedcfc7357b.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Aplikasi SDM non ERP</p>
+                                        <span class="textUrl">https://Petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://Petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#ccf9615c-a05a-4ab3-9044-0eedcfc7357b">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/d4c046e2-1367-4b70-a53c-a6a49450111c.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Pusat Layanan Pelanggan</p>
+                                        <span class="textUrl">https://plp.petrointernal.net</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://plp.petrointernal.net">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#d4c046e2-1367-4b70-a53c-a6a49450111c">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/dabeda31-1cea-44e2-9a76-d9adf85b0797.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Event Management (KIPG)</p>
+                                        <span class="textUrl">http://event.petrokimia-gresik.com/</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://event.petrokimia-gresik.com/">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#dabeda31-1cea-44e2-9a76-d9adf85b0797">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/dccfd663-1af9-40c0-ac7c-39bea2049d3c.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Survey PG</p>
+                                        <span class="textUrl">https://survey.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://survey.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#dccfd663-1af9-40c0-ac7c-39bea2049d3c">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/e6651287-3a50-45d3-bb2c-cc6089122cf4.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>SIMASTI-Sistem Manajemen Aset TI</p>
+                                        <span class="textUrl">https://Petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://Petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#e6651287-3a50-45d3-bb2c-cc6089122cf4">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/ec304e64-188b-4d9e-bfd2-11909f94a522.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Diklat Online</p>
+                                        <span class="textUrl">https://diklat.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://diklat.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#ec304e64-188b-4d9e-bfd2-11909f94a522">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/f21b72f0-c833-429a-bbbd-081991087514.jpeg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Petro Agenda</p>
+                                        <span class="textUrl">https://play.google.com/store/apps/details?id=com.agendapetro</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://play.google.com/store/apps/details?id=com.agendapetro">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#f21b72f0-c833-429a-bbbd-081991087514">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/f3d36dfa-974c-4e95-8711-82ff4a65009d.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Bank Payment Outgoing Warkat</p>
+                                        <span class="textUrl">https://finance.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://finance.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#f3d36dfa-974c-4e95-8711-82ff4a65009d">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/f52997b0-57f6-4171-ba11-089d04d4d584.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Petro Dashboard</p>
+                                        <span class="textUrl">https://play.google.com/store/apps/details?id=com.petrobi</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://play.google.com/store/apps/details?id=com.petrobi">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#f52997b0-57f6-4171-ba11-089d04d4d584">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/fa7e5407-f1c5-4242-80d6-18dd91c37b57.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>B3 (Bahan Berbahaya &amp; Beracun)</p>
+                                        <span class="textUrl">https://b3.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://b3.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#fa7e5407-f1c5-4242-80d6-18dd91c37b57">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/fe05e29e-f6fd-4c8a-9964-db5c52050244.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>P-MEN</p>
+                                        <span class="textUrl">http://pmen.petrointernal.net/</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://pmen.petrointernal.net/">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#fe05e29e-f6fd-4c8a-9964-db5c52050244">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/d009474f-0912-46b4-a367-50c0388c64a8.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Rekreasi</p>
+                                        <span class="textUrl">https://rekreasi.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://rekreasi.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#d009474f-0912-46b4-a367-50c0388c64a8">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/cc9f92d9-e6ad-4e31-97a2-062f6d17448d.jpg" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Webmail Petrokimia</p>
+                                        <span class="textUrl">https://webmail.petrokimia-gresik.com/</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://webmail.petrokimia-gresik.com/">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#cc9f92d9-e6ad-4e31-97a2-062f6d17448d">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/adfc707f-3809-4b46-9c11-84e9d72def52.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Petroxfert</p>
+                                        <span class="textUrl">http://petroxfert.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://petroxfert.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#adfc707f-3809-4b46-9c11-84e9d72def52">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/93551e5f-94a6-43b5-927c-d1af4a966f3c.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>IAM</p>
+                                        <span class="textUrl">http://digifert.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://digifert.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#93551e5f-94a6-43b5-927c-d1af4a966f3c">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/7c66435e-b4b3-4ceb-983e-328e350b5c3b.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Video Conference </p>
+                                        <span class="textUrl">https://meet.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://meet.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#7c66435e-b4b3-4ceb-983e-328e350b5c3b">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/80b6a86b-9ae9-4314-8ade-2acbabc3ff6e.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Web Anggaran PI</p>
+                                        <span class="textUrl">http://anggaran.pupuk-indonesia.com/Account/Login.aspx?ReturnUrl=%2f</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://anggaran.pupuk-indonesia.com/Account/Login.aspx?ReturnUrl=%2f">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#80b6a86b-9ae9-4314-8ade-2acbabc3ff6e">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/bbceb314-a4e4-446a-ba4e-260059a8cbac.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Yanum Online</p>
+                                        <span class="textUrl">http://yanum.petrokimia-gresik.com</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://yanum.petrokimia-gresik.com">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#bbceb314-a4e4-446a-ba4e-260059a8cbac">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/7b3bfe94-28e5-4502-9ff2-ce88eb520a58.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>Uptime Server Petrokimia Gresik</p>
+                                        <span class="textUrl">https://uptime.petrokimia-gresik.com/</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="https://uptime.petrokimia-gresik.com/">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#7b3bfe94-28e5-4502-9ff2-ce88eb520a58">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="container-card">
+                                <div class="container-menu row">
+                                    <div class="col-md-4 col-lg-4 col-sm-4" style="padding: 0;">
+                                        <br>
+                                        <img class="img-fluid" src="/Files/47a9f327-cdb2-4742-af1e-f7700c469e73.png" alt="">
+                                    </div>
+                                    <div class="col-md-8 col-lg-8 col-sm-8">
+                                        <br>
+                                        <p>PG Network Monitoring - Zabbix</p>
+                                        <span class="textUrl">http://monitor.petrokimia-gresik.com/</span>
+
+                                        <a class="btn btn-primary btn-custom" target="_blank" href="http://monitor.petrokimia-gresik.com/">Launch</a>
+                                        <a class="btn btn-secondary btn-custom portfolio-item" href="#47a9f327-cdb2-4742-af1e-f7700c469e73">MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+        <div class="scroll-to-top d-lg-none position-fixed ">
+            <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+                <i class="fa fa-chevron-up"></i>
+            </a>
+        </div>
+
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="e56c4dee-0665-4203-9efb-be7c4da77223">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Petrokimia Gresik</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/e56c4dee-0665-4203-9efb-be7c4da77223.jpg" alt="">
+                                <p class="mb-5">Website PT Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="0abbe508-b352-423a-892a-2a38ca80fd56">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">SERGIO</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/0abbe508-b352-423a-892a-2a38ca80fd56.jpg" alt="">
+                                <p class="mb-5">Sistem Registrasi Gugus Inovasi Online</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="df4ee376-ff17-47f3-a244-79051c91c917">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">SISTRO</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/df4ee376-ff17-47f3-a244-79051c91c917.jpg" alt="">
+                                <p class="mb-5">Sistem antrian &amp; penjadwalan kedatangan truk untuk pengambilan SO &amp; POSTO di Gudang Gresik &amp; Gudang Penyangga</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="34462020-7fd4-4d47-9a59-9ca7846ff7f9">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Digital Office</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/34462020-7fd4-4d47-9a59-9ca7846ff7f9.jpg" alt="">
+                                <p class="mb-5">Aplikasi tata naskah dinas Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="5768f320-794c-40c8-8f88-730df20c6357">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Helpdesk TI</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/5768f320-794c-40c8-8f88-730df20c6357.png" alt="">
+                                <p class="mb-5">Website Helpdesk TI Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="03503036-b7b5-4658-97f3-46de5705e03d">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">SMK</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/03503036-b7b5-4658-97f3-46de5705e03d.jpg" alt="">
+                                <p class="mb-5">Sistem Manajemen Kinerja Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="1c093911-a1f8-482a-9774-aac3e0955681">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">NISA (Monitoring Pasar)</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/1c093911-a1f8-482a-9774-aac3e0955681.png" alt="">
+                                <p class="mb-5">Sistem pelaporan kondisi pasar domestik oleh SPDP</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="a649d2be-45a3-41ff-9400-8a0f6da3e426">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Dashboard Mobile</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/a649d2be-45a3-41ff-9400-8a0f6da3e426.png" alt="">
+                                <p class="mb-5">Aplikasi mobile based untuk laporan keuangan dan stock PT Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="6b25828c-a1f5-4285-8e2a-45ced1e61f7b">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Sumbang Gagasan</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/6b25828c-a1f5-4285-8e2a-45ced1e61f7b.jpg" alt="">
+                                <p class="mb-5">Sistem informasi sumbang gagasan Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="df00c41d-c5f2-43a7-ba4b-6ffdaf700bef">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">DOF Mobile</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/df00c41d-c5f2-43a7-ba4b-6ffdaf700bef.jpg" alt="">
+                                <p class="mb-5">Digital Office Mobile</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="7aeb6c6a-b9b0-4a39-88f3-909466ae87fd">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">KIPG Apps</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/7aeb6c6a-b9b0-4a39-88f3-909466ae87fd.jpeg" alt="">
+                                <p class="mb-5">Aplikasi mobile based untuk Konvensi Inovasi Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="ef401d2c-94cb-484e-9aeb-4ca270b23e6e">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Knowledge Management</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/ef401d2c-94cb-484e-9aeb-4ca270b23e6e.jpg" alt="">
+                                <p class="mb-5">Sistem Knowledge Management PT Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="5d2d5cad-a2ff-4d8c-b0f8-d8dd7ebf7c9c">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">SIP3</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/5d2d5cad-a2ff-4d8c-b0f8-d8dd7ebf7c9c.jpg" alt="">
+                                <p class="mb-5">Sistem Informasi Penebusan Pupuk / Produk Non Subsidi</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="7487a25b-8643-4037-af21-bf3f509a115b">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Recruitment</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/7487a25b-8643-4037-af21-bf3f509a115b.jpg" alt="">
+                                <p class="mb-5">Sistem Rekrutmen Karyawan Baru Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="1a0f7190-54be-43aa-803f-0df3ef64ea4e">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Prakerin</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/1a0f7190-54be-43aa-803f-0df3ef64ea4e.jpg" alt="">
+                                <p class="mb-5">Sistem Praktek Kerja Industry Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="1c6b31d1-52ed-4d5e-95b5-8087d96e61e3">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">OPG</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/1c6b31d1-52ed-4d5e-95b5-8087d96e61e3.jpg" alt="">
+                                <p class="mb-5">Sistem Operasional Portal Gudang Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="cdea4bc4-6701-4250-92d8-52e05168fd39">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">MONITA</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/cdea4bc4-6701-4250-92d8-52e05168fd39.jpg" alt="">
+                                <p class="mb-5">Sistem Monitoring tagihan yang masuk ke Pemasaran &amp; Akuntansi</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="ae5bf7b6-836e-47b5-98f8-401de852d50b">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">IMFUS</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/ae5bf7b6-836e-47b5-98f8-401de852d50b.PNG" alt="">
+                                <p class="mb-5">Monitoring tindak lanjut Assessment (KPKU, GCG), Audit, Review (Kaji ulang manajemen), Meeting (rapat anggaran, rapat direksi, etc)</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="bb52f5f2-e2a4-4fa2-bd6d-fab0b66e86d0">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">HCM</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/bb52f5f2-e2a4-4fa2-bd6d-fab0b66e86d0.jpg" alt="">
+                                <p class="mb-5">Sistem Human Capital Management Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="de876c20-60ec-4fa7-812b-cbd818472707">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">GO CRANE</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/de876c20-60ec-4fa7-812b-cbd818472707.png" alt="">
+                                <p class="mb-5">Aplikasi Order Crane Online</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="18094459-3d51-4713-92c2-2baf5a5d6069">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Dekom PKG</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/18094459-3d51-4713-92c2-2baf5a5d6069.jpg" alt="">
+                                <p class="mb-5">Aplikasi Pengelola dokumen softcopy Dewan Komisaris &amp; Pengelolaan surat masuk &amp; keluar Dewan Komisaris</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="b64935bc-55d5-4c34-b513-bf70dd9618df">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">WUM (Web Uang Muka)</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/b64935bc-55d5-4c34-b513-bf70dd9618df.jpg" alt="">
+                                <p class="mb-5">Web Uang Muka Pupuk Indonesia</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="b9601fa6-8f4c-43e9-91c9-5ccad302b062">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">WCM</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/b9601fa6-8f4c-43e9-91c9-5ccad302b062.jpg" alt="">
+                                <p class="mb-5">Web Commerce Pupuk Indonesia</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="85d4d620-4a33-4ba1-bbe4-4b628a3448bd">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">HCSERVICES</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/85d4d620-4a33-4ba1-bbe4-4b628a3448bd.jpg" alt="">
+                                <p class="mb-5">Human Capital Management Pupuk Indonesia</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="ee4a9369-7374-487f-8ed6-58c4c532ec1e">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Transport Online</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/ee4a9369-7374-487f-8ed6-58c4c532ec1e.jpg" alt="">
+                                <p class="mb-5">Sistem Peminjaman kendaraan internal online</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="23867a6a-dd8f-440f-90e1-ea0fdd93882e">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Seleksi Lolapil </h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/23867a6a-dd8f-440f-90e1-ea0fdd93882e.jpg" alt="">
+                                <p class="mb-5">Sistem Seleksi Peserta Program Lolapil</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="dd817e28-4fe0-4634-92a6-c21e885a3560">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">CGM</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/dd817e28-4fe0-4634-92a6-c21e885a3560.jpg" alt="">
+                                <p class="mb-5">Dashboard CGM Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="eb199946-f169-499b-b783-1c4aad2ee572">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">SIP-Sistem Informasi Petroganik</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/eb199946-f169-499b-b783-1c4aad2ee572.jpg" alt="">
+                                <p class="mb-5">Sistem Informasi pengelolaan mitra petroganik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="1fef3577-ca3a-4779-9ae5-b32e610da2cf">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">PIKPG</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/1fef3577-ca3a-4779-9ae5-b32e610da2cf.PNG" alt="">
+                                <p class="mb-5">Sistem Perkumpulan Istri Karyawan Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="38f0e2e6-1d76-4a57-a7ba-2bd6dfccda26">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">E-Sekretariat</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/38f0e2e6-1d76-4a57-a7ba-2bd6dfccda26.jpg" alt="">
+                                <p class="mb-5">Sistem manajemen penomoran surat Dept. Hukum &amp; Sekretariat</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="0bf4a713-fcc1-4078-b202-14b807ffa38f">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">PGFC / HUT Petrokimia</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/0bf4a713-fcc1-4078-b202-14b807ffa38f.jpg" alt="">
+                                <p class="mb-5"> SIM kompetisi futsal SMA v2 ( HUT Petrokimia Gresik 2017)</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="19565608-cc1d-4332-a85b-b1dbd502ef3b">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Share Additional Cost PO</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/19565608-cc1d-4332-a85b-b1dbd502ef3b.jpg" alt="">
+                                <p class="mb-5">Pelaporan additional cost PO dari unit2 terkait (pelabuhan, keu, akun, dst) ke Pengadaan</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="19d67459-7119-41db-bdcf-91a41c63d0ea">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Dashboard Raw Material (DRM)</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/19d67459-7119-41db-bdcf-91a41c63d0ea.jpg" alt="">
+                                <p class="mb-5"> Dashboard Raw Material</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="21349977-d3f4-42c2-8641-f752dc93eff0">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0"> GEMA Online</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/21349977-d3f4-42c2-8641-f752dc93eff0.jpeg" alt="">
+                                <p class="mb-5"> Portal Majalah internal PT Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="47d5ed1e-fd99-4dac-adda-e0880cbff69f">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0"> Sistem Managemen Risiko (SIMAR)</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/47d5ed1e-fd99-4dac-adda-e0880cbff69f.jpg" alt="">
+                                <p class="mb-5">Sistem Informasi Pelaporan Identifikasi Risiko dan Pelaporan Risiko Bulanan</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="4fbe216b-6444-439b-b41c-a0e02f813ea1">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Tools VFP</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/4fbe216b-6444-439b-b41c-a0e02f813ea1.jpg" alt="">
+                                <p class="mb-5">Tools Visual Foxpro untuk kemudahan programmer membuat Form input dan report</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="5a06ea9c-48d1-4d14-b568-cb3f0d04f7e5">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Petro Link</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/5a06ea9c-48d1-4d14-b568-cb3f0d04f7e5.jpg" alt="">
+                                <p class="mb-5">Jejaring profesional Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="5ca64229-88cc-4ace-bee0-a4c723341ddc">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">SKPG-Pilsung</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/5ca64229-88cc-4ace-bee0-a4c723341ddc.jpg" alt="">
+                                <p class="mb-5">Sistem pemilihan langsung SKPG</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="61a9fdd1-2921-46fa-8849-4d8f77f1b2ae">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">SIP3 Non Subsidi</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/61a9fdd1-2921-46fa-8849-4d8f77f1b2ae.jpg" alt="">
+                                <p class="mb-5"> Penebusan pupuk/produk non subsidi</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="66502439-fc9f-402a-8107-8e3482eeffa0">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Logenda PM</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/66502439-fc9f-402a-8107-8e3482eeffa0.jpg" alt="">
+                                <p class="mb-5">Monitoring &amp; pelaporan progress proyek Dept Pengembangan Usaha</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="782090dc-6c9d-4830-bc03-ee1e9ab51e41">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">E-Talent</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/782090dc-6c9d-4830-bc03-ee1e9ab51e41.jpg" alt="">
+                                <p class="mb-5">Sistem E-Talent</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="7ea35e0b-b1ec-42a1-9d78-69b3780af77e">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Digital Fertilizer</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/7ea35e0b-b1ec-42a1-9d78-69b3780af77e.png" alt="">
+                                <p class="mb-5">Aplikasi untuk menampilkan Performance Plant di PT Petrokimia Gresik berdasarkan data dari Exaquantum dan Input Manusal User</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="8036df95-6d57-4ef5-9a81-0b9d599db586">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">SAP FI</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/8036df95-6d57-4ef5-9a81-0b9d599db586.jpg" alt="">
+                                <p class="mb-5">Sistem SAP yang digunakan untuk memenuhi kebutuhan akuntansi dan keuangan perusahaan</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="9f7ff085-6cc0-42e0-b537-93e517da5161">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">APG- Aplikasi Gudang</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/9f7ff085-6cc0-42e0-b537-93e517da5161.jpg" alt="">
+                                <p class="mb-5">Aplikasi Gudang </p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="a0c56ba5-3108-47ec-bcf1-ee896a5dfe5e">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Sistem informasi GCG</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/a0c56ba5-3108-47ec-bcf1-ee896a5dfe5e.jpg" alt="">
+                                <p class="mb-5">List Aplikasi Hasil ITMP 100%  Pemenuhan dokumen GCG dan penilaian secara internal</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="a7ce3257-79fb-4f6f-ab3b-af635252c04b">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Sistem Informasi Niaga (SIAGA)</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/a7ce3257-79fb-4f6f-ab3b-af635252c04b.jpg" alt="">
+                                <p class="mb-5">Sistem Informasi Niaga</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="c8cc7350-c9d9-40bd-8986-f6a9f84b5c33">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">AUDIO</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/c8cc7350-c9d9-40bd-8986-f6a9f84b5c33.jpg" alt="">
+                                <p class="mb-5">Aplikasi administasi audit internal online</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="ccf9615c-a05a-4ab3-9044-0eedcfc7357b">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Aplikasi SDM non ERP</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/ccf9615c-a05a-4ab3-9044-0eedcfc7357b.jpg" alt="">
+                                <p class="mb-5"> Aplikasi SDM yang tidak tercakup di dalam sistem ERP SAP</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="d4c046e2-1367-4b70-a53c-a6a49450111c">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Pusat Layanan Pelanggan</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/d4c046e2-1367-4b70-a53c-a6a49450111c.jpg" alt="">
+                                <p class="mb-5"> Sistem Informasi Layanan Pelanggan</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="dabeda31-1cea-44e2-9a76-d9adf85b0797">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Event Management (KIPG)</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/dabeda31-1cea-44e2-9a76-d9adf85b0797.jpg" alt="">
+                                <p class="mb-5">Aplikasi yang digunakan oleh user / karyawan PKG untuk event-event yang diselenggarakan oleh PKG</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="dccfd663-1af9-40c0-ac7c-39bea2049d3c">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Survey PG</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/dccfd663-1af9-40c0-ac7c-39bea2049d3c.jpg" alt="">
+                                <p class="mb-5">Aplikasi Survey Untuk End User Produk (Pemasaran)</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="e6651287-3a50-45d3-bb2c-cc6089122cf4">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">SIMASTI-Sistem Manajemen Aset TI</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/e6651287-3a50-45d3-bb2c-cc6089122cf4.jpg" alt="">
+                                <p class="mb-5">Aplikasi yang digunakan untuk manajemen aset-aset TI berupa komputer, printer, laptop, proyektor dll</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="ec304e64-188b-4d9e-bfd2-11909f94a522">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Diklat Online</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/ec304e64-188b-4d9e-bfd2-11909f94a522.jpg" alt="">
+                                <p class="mb-5">Aplikasi pengelolaan diklat karyawan online</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="f21b72f0-c833-429a-bbbd-081991087514">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Petro Agenda</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/f21b72f0-c833-429a-bbbd-081991087514.jpeg" alt="">
+                                <p class="mb-5"> Aplikasi manajemen agenda karyawan PG</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="f3d36dfa-974c-4e95-8711-82ff4a65009d">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Bank Payment Outgoing Warkat</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/f3d36dfa-974c-4e95-8711-82ff4a65009d.jpg" alt="">
+                                <p class="mb-5">Pencetakan warkat bank untuk pencairan uang muka non transfer</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="f52997b0-57f6-4171-ba11-089d04d4d584">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Petro Dashboard</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/f52997b0-57f6-4171-ba11-089d04d4d584.png" alt="">
+                                <p class="mb-5">Dashboard manajemen dengan data dari SAP</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="fa7e5407-f1c5-4242-80d6-18dd91c37b57">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">B3 (Bahan Berbahaya &amp; Beracun)</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/fa7e5407-f1c5-4242-80d6-18dd91c37b57.jpg" alt="">
+                                <p class="mb-5"> Sistem Informasi Pengelolaan B3</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="fe05e29e-f6fd-4c8a-9964-db5c52050244">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">P-MEN</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/fe05e29e-f6fd-4c8a-9964-db5c52050244.png" alt="">
+                                <p class="mb-5">Pengendalian Dokumen Online</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="d009474f-0912-46b4-a367-50c0388c64a8">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Rekreasi</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/d009474f-0912-46b4-a367-50c0388c64a8.png" alt="">
+                                <p class="mb-5">Pengajuan Rekreasi Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="cc9f92d9-e6ad-4e31-97a2-062f6d17448d">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Webmail Petrokimia</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/cc9f92d9-e6ad-4e31-97a2-062f6d17448d.jpg" alt="">
+                                <p class="mb-5">Email Petrokimia</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="adfc707f-3809-4b46-9c11-84e9d72def52">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Petroxfert</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/adfc707f-3809-4b46-9c11-84e9d72def52.png" alt="">
+                                <p class="mb-5">Aplikasi mobile based untuk product knowledge PG</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="93551e5f-94a6-43b5-927c-d1af4a966f3c">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">IAM</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/93551e5f-94a6-43b5-927c-d1af4a966f3c.png" alt="">
+                                <p class="mb-5">Integrated Asset Management Dashboard Online System of PT Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="7c66435e-b4b3-4ceb-983e-328e350b5c3b">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Video Conference </h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/7c66435e-b4b3-4ceb-983e-328e350b5c3b.png" alt="">
+                                <p class="mb-5">Website Video Conference Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="80b6a86b-9ae9-4314-8ade-2acbabc3ff6e">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Web Anggaran PI</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/80b6a86b-9ae9-4314-8ade-2acbabc3ff6e.png" alt="">
+                                <p class="mb-5">Web Anggaran Pupuk Indonesia (Si Anin, Si Angga, Si Dendi, dll)</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="bbceb314-a4e4-446a-ba4e-260059a8cbac">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Yanum Online</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/bbceb314-a4e4-446a-ba4e-260059a8cbac.png" alt="">
+                                <p class="mb-5">Aplikasi ini merupakan wadah dari beberapa aplikasi yang dikembangkan oleh Departemen Pelayanan Umum. Pada aplikasi ini terdapat beberapa aplikasi di dalamnya diantaranya rumah dinas online, dll</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="7b3bfe94-28e5-4502-9ff2-ce88eb520a58">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">Uptime Server Petrokimia Gresik</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/7b3bfe94-28e5-4502-9ff2-ce88eb520a58.png" alt="">
+                                <p class="mb-5">Monitoring Server &amp; Aplikasi Online Petrokimia Gresik</p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Portfolio Modal 1 -->
+            <div class="portfolio-modal mfp-hide" id="47a9f327-cdb2-4742-af1e-f7700c469e73">
+                <div class="portfolio-modal-dialog bg-white">
+                    <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-3x fa-times"></i>
+                    </a>
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-8 mx-auto">
+                                <h2 class="text-secondary text-uppercase mb-0">PG Network Monitoring - Zabbix</h2>
+                                <hr class="star-dark mb-5">
+                                <img class="img-fluid mb-5" src="/Files/47a9f327-cdb2-4742-af1e-f7700c469e73.png" alt="">
+                                <p class="mb-5">Monitoring Network &amp; Server Petrokimia Gresik. Powered by Zabbix </p>
+                                <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                                    <i class="fa fa-close"></i>
+                                    Close Project
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <script src="/Scripts/jquery-1.10.2.js"></script>
+        <script src="/Scripts/jquery.unobtrusive-ajax.js"></script>
+        <!-- Bootstrap core JavaScript -->
+        <script src="/Content/vendor/jquery/jquery.min.js"></script>
+        <script src="/Content/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <!-- Plugin JavaScript -->
+        <script src="/Content/vendor/jquery-easing/jquery.easing.min.js"></script>
+        <script src="/Content/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+        <!-- Contact Form JavaScript -->
+        <script src="/Content/js/jqBootstrapValidation.js"></script>
+        <script src="/Content/js/contact_me.js"></script>
+        <!-- Custom scripts for this template -->
+        <script src="/Content/js/freelancer.min.js"></script>
+</body>
+</html>

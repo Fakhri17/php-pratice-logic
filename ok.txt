@@ -1,0 +1,269 @@
+Petrokimia Gresik =  http://www.petrokimia-gresik.com 
+SERGIO =  http://sergio.petrokimia-gresik.com
+SISTRO =  http://sistro.petrokimia-gresik.com
+Digital Office =  http://dof.petrokimia-gresik.com
+Helpdesk TI =  http://helpdesk.petrokimia-gresik.com/
+SMK =  http://smk.petrokimia-gresik.com
+NISA (Monitoring Pasar) =  http://nisa.petrokimia-gresik.com
+Dashboard Mobile =  https://play.google.com/store/apps/details?id=com.petrobi
+Sumbang Gagasan =  http://sg.petrokimia-gresik.com
+DOF Mobile =  https://play.google.com/store/apps/details?id=com.digitaloffice
+KIPG Apps =  https://play.google.com/store/apps/details?id=app.kipg.koding
+Knowledge Management =  http://km.petrokimia-gresik.com
+SIP3 =  https://sip3.petrokimia-gresik.com
+Recruitment =  http://recruitment.petrokimia-gresik.com
+Prakerin =  http://prakerin.petrokimia-gresik.com
+OPG =  http://opg.petrokimia-gresik.com
+MONITA =  http://monita.petrokimia-gresik.com
+IMFUS =  http://imfus.petrokimia-gresik.com
+HCM =  http://hcm.petrokimia-gresik.com
+GO CRANE =  https://play.google.com/store/apps/details?id=com.petrokimia.digihev
+Dekom PKG =  http://dekompkg.com
+WUM (Web Uang Muka) =  https://wum.pupuk-indonesia.com
+WCM =  https://wcm.pupuk-indonesia.com/
+HCSERVICES =  https://hcservices.pupuk-indonesia.com
+Transport Online =  http://transport.petrokimia-gresik.com
+Seleksi Lolapil =  http://seleksilolapil.petrokimia-gresik.com
+CGM =  http://cgm.petrokimia-gresik.com
+SIP-Sistem Informasi Petroganik =  http://petroganik.net
+PIKPG =  http://pikpg.petrokimia-gresik.com
+E-Sekretariat =  http://sekretariat.petrointernal.net
+PGFC / HUT Petrokimia =  http://pgfc.petrokimia-gresik.com
+Share Additional Cost PO =  https://Petrokimia-gresik.com
+Dashboard Raw Material (DRM) =  http://drm.petrokimia-gresik.com
+GEMA Online =  http://gema.petrokimia-gresik.com/NoLogin/Default.aspx
+Sistem Managemen Risiko (SIMAR) =  http://simar.petrokimia-gresik.com
+Tools VFP =  https://Petrokimia-gresik.com
+Petro Link =  http://link.petrokimia-gresik.com
+SKPG-Pilsung =  https://skpg.petrokimia-gresik.com
+SIP3 Non Subsidi =  https://sip3.petrokimia-gresik.com
+Logenda PM =  https://logenda-pm.petrokimia-gresik.com
+E-Talent =  https://smk.petrokimia-gresik.com
+Digital Fertilizer =  https://play.google.com/store/apps/details?id=io.digifertpetro.app
+SAP FI =  https://Petrokimia-gresik.com
+APG- Aplikasi Gudang =  https://apg.pupuk-indonesia.com/
+Sistem informasi GCG =  https://gcgonline.petrokimia-gresik.com
+Sistem Informasi Niaga (SIAGA) =  http://siaga.pupuk-indonesia.com/siaga/user/login
+AUDIO =  https://audio.petrokimia-gresik.com
+Aplikasi SDM non ERP =  https://Petrokimia-gresik.com
+Pusat Layanan Pelanggan =  https://plp.petrointernal.net
+Event Management (KIPG) =  http://event.petrokimia-gresik.com/
+Survey PG =  https://survey.petrokimia-gresik.com
+SIMASTI-Sistem Manajemen Aset TI =  https://Petrokimia-gresik.com
+Diklat Online =  https://diklat.petrokimia-gresik.com
+Petro Agenda =  https://play.google.com/store/apps/details?id=com.agendapetro
+Bank Payment Outgoing Warkat =  https://finance.petrokimia-gresik.com
+Petro Dashboard =  https://play.google.com/store/apps/details?id=com.petrobi
+B3 (Bahan Berbahaya & Beracun) =  https://b3.petrokimia-gresik.com
+P-MEN =  http://pmen.petrointernal.net/
+Rekreasi =  https://rekreasi.petrokimia-gresik.com
+Webmail Petrokimia =  https://webmail.petrokimia-gresik.com/
+Petroxfert =  http://petroxfert.com
+IAM =  http://digifert.petrokimia-gresik.com
+Video Conference =  https://meet.petrokimia-gresik.com
+Web Anggaran PI =  http://anggaran.pupuk-indonesia.com/Account/Login.aspx?ReturnUrl=%2f
+Yanum Online =  http://yanum.petrokimia-gresik.com
+Uptime Server Petrokimia Gresik =  https://uptime.petrokimia-gresik.com/
+PG Network Monitoring - Zabbix   http://monitor.petrokimia-gresik.com/
+
+urutan Deskripsi
+Website PT Petrokimia Gresik
+
+
+Sistem Registrasi Gugus Inovasi Online
+
+
+Sistem antrian & penjadwalan kedatangan truk untuk pengambilan SO & POSTO di Gudang Gresik & Gudang Penyangga
+
+
+Aplikasi tata naskah dinas Petrokimia Gresik
+
+
+Website Helpdesk TI Petrokimia Gresik
+
+
+Sistem Manajemen Kinerja Petrokimia Gresik
+
+
+Sistem pelaporan kondisi pasar domestik oleh SPDP
+
+
+Aplikasi mobile based untuk laporan keuangan dan stock PT Petrokimia Gresik
+
+
+Sistem informasi sumbang gagasan Petrokimia Gresik
+
+
+Digital Office Mobile
+
+
+Aplikasi mobile based untuk Konvensi Inovasi Petrokimia Gresik
+
+
+Sistem Knowledge Management PT Petrokimia Gresik
+
+
+Sistem Informasi Penebusan Pupuk / Produk Non Subsidi
+
+
+Sistem Rekrutmen Karyawan Baru Petrokimia Gresik
+
+
+Sistem Praktek Kerja Industry Petrokimia Gresik
+
+
+Sistem Operasional Portal Gudang Petrokimia Gresik
+
+
+Sistem Monitoring tagihan yang masuk ke Pemasaran & Akuntansi
+
+
+Monitoring tindak lanjut Assessment (KPKU, GCG), Audit, Review (Kaji ulang manajemen), Meeting (rapat anggaran, rapat direksi, etc)
+
+
+Sistem Human Capital Management Petrokimia Gresik
+
+
+Aplikasi Order Crane Online
+
+
+Aplikasi Pengelola dokumen softcopy Dewan Komisaris & Pengelolaan surat masuk & keluar Dewan Komisaris
+
+
+Web Uang Muka Pupuk Indonesia
+
+
+Web Commerce Pupuk Indonesia
+
+
+Human Capital Management Pupuk Indonesia
+
+
+Sistem Peminjaman kendaraan internal online
+
+
+Sistem Seleksi Peserta Program Lolapil
+
+
+Dashboard CGM Petrokimia Gresik
+
+
+Sistem Informasi pengelolaan mitra petroganik
+
+
+Sistem Perkumpulan Istri Karyawan Petrokimia Gresik
+
+
+Sistem manajemen penomoran surat Dept. Hukum & Sekretariat
+
+
+SIM kompetisi futsal SMA v2 ( HUT Petrokimia Gresik 2017)
+
+
+Pelaporan additional cost PO dari unit2 terkait (pelabuhan, keu, akun, dst) ke Pengadaan
+
+
+Dashboard Raw Material
+
+
+Portal Majalah internal PT Petrokimia Gresik
+
+
+Sistem Informasi Pelaporan Identifikasi Risiko dan Pelaporan Risiko Bulanan
+
+
+Tools Visual Foxpro untuk kemudahan programmer membuat Form input dan report
+
+
+Jejaring profesional Petrokimia Gresik
+
+
+Sistem pemilihan langsung SKPG
+
+
+Penebusan pupuk/produk non subsidi
+
+
+Monitoring & pelaporan progress proyek Dept Pengembangan Usaha
+
+
+Sistem E-Talent
+
+
+Aplikasi untuk menampilkan Performance Plant di PT Petrokimia Gresik berdasarkan data dari Exaquantum dan Input Manusal User
+
+
+Sistem SAP yang digunakan untuk memenuhi kebutuhan akuntansi dan keuangan perusahaan
+
+
+Aplikasi Gudang
+
+
+List Aplikasi Hasil ITMP 100% Pemenuhan dokumen GCG dan penilaian secara internal
+
+
+Sistem Informasi Niaga
+
+
+Aplikasi administasi audit internal online
+
+
+Aplikasi SDM yang tidak tercakup di dalam sistem ERP SAP
+
+
+Sistem Informasi Layanan Pelanggan
+
+
+Aplikasi yang digunakan oleh user / karyawan PKG untuk event-event yang diselenggarakan oleh PKG
+
+
+Aplikasi Survey Untuk End User Produk (Pemasaran)
+
+
+Aplikasi yang digunakan untuk manajemen aset-aset TI berupa komputer, printer, laptop, proyektor dll
+
+
+Aplikasi pengelolaan diklat karyawan online
+
+
+Aplikasi manajemen agenda karyawan PG
+
+
+Pencetakan warkat bank untuk pencairan uang muka non transfer
+
+
+Dashboard manajemen dengan data dari SAP
+
+
+Sistem Informasi Pengelolaan B3
+
+
+Pengendalian Dokumen Online
+
+
+Pengajuan Rekreasi Petrokimia Gresik
+
+
+Email Petrokimia
+
+
+Aplikasi mobile based untuk product knowledge PG
+
+
+Integrated Asset Management Dashboard Online System of PT Petrokimia Gresik
+
+
+Website Video Conference Petrokimia Gresik
+
+
+Web Anggaran Pupuk Indonesia (Si Anin, Si Angga, Si Dendi, dll)
+
+
+Aplikasi ini merupakan wadah dari beberapa aplikasi yang dikembangkan oleh Departemen Pelayanan Umum. Pada aplikasi ini terdapat beberapa aplikasi di dalamnya diantaranya rumah dinas online, dll
+
+
+Monitoring Server & Aplikasi Online Petrokimia Gresik
+
+
+Monitoring Network & Server Petrokimia Gresik. Powered by Zabbix
+
